@@ -110,11 +110,11 @@ export const InfiniteMovingCards = ({
                 <span className="flex flex-col gap-1">
                   <div className="me-3">
                     {item.id === "1" ? (
-                      <img src="/chanchalMa'am.svg" alt="chanchalMa'am" />
+                      <img src="./chanchalMa'am.svg" alt="chanchalMa'am" />
                     ) : item.id === "2" ? (
-                      <img src="/devSir.svg" alt="devSir" />
+                      <img src="./devSir.svg" alt="devSir" />
                     ) : item.id === "3" ? (
-                      <img src="/shubhamBhaiya.svg" alt="ShubhamBaswal" />
+                      <img src="./shubhamBhaiya.svg" alt="ShubhamBaswal" />
                     ) : null}
                   </div>
                   <span className="flex flex-col gap-1">
